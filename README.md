@@ -51,6 +51,6 @@ To develop locally:
 
 ## Screenshots
 
-![Homepage Screenshot](https://github.com/Hepik/RecipeFinderApp/blob/main/recipefinderapp/public/photo_2025-04-10_00-13-51.jpg?raw=true)
+![Homepage Screenshot](https://github.com/Hepik/assignment-portal/blob/main/public/photo_2025-04-10_00-13-51.jpg?raw=true)
 
-![Thank You Page](https://github.com/Hepik/RecipeFinderApp/blob/main/recipefinderapp/public/photo_2025-04-10_00-13-57.jpg?raw=true)
+![Thank You Page](https://github.com/Hepik/assignment-portal/blob/main/public/photo_2025-04-10_00-13-57.jpg?raw=true)
